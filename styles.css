@@ -5,6 +5,7 @@
     box-sizing: border-box;
     list-style: none;
 }
+
 body{
     width: 100%;
     background-color: #f3f3f3;
@@ -467,6 +468,12 @@ body{
     margin-bottom: 15px;
     cursor: pointer;
 }
+/* 
+.product-slide-img li{
+    width: 240px;
+    object-fit: fill
+   
+} */
 .l-btn,.r-btn{
     background-color: rgb(255,255,255,1);
     height: 90px;
